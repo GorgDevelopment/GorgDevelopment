@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm GorgDevelopment</h1>
+<h1 align="center">Hi there 👋 I'm Gorg</h1>
 
 <p align="center">
   <a href="mailto:gorgjr@yahoo.com">
