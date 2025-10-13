@@ -17,7 +17,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍💻 Software Engineer · Full‑stack Developer · DevOps Engineer  
+- 👨‍💻 Software Developer · Full‑stack Developer · DevOps Engineer  
 - ⚙️ Building scalable apps, automating infrastructure, writing clean code
 
 ---
